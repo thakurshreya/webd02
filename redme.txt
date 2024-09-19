@@ -1,0 +1,42 @@
+Overview
+This README describes the HTML elements and CSS properties used in the creation of a personal portfolio website. It emphasises major components like as the favicon, table, forms, photos, and more, displaying the website's structure and layout.
+
+**HTML Elements**
+
+Favicon: The shortcut icon, or favicon, of a webpage.
+
+Table: Used to generate tabular data, such as the courses section.
+
+Form: The code does not explicitly utilise <form>, <input>, <label>, <textarea>, <select>, or <button>, but they are commonly used.
+
+Images: Used to embed images in a document.
+
+Hyperlink: Defines hyperlinks that lead to other pages or resources.
+
+Button: Not expressly present, but typically represented by <button> or <a> decorated with CSS.
+
+Audio: Includes audio files.
+
+Video: embeds video files.
+
+Header: Not explicitly specified, but can be represented by <header> or a <div> with class.header.
+
+Footer: Defines the page's footer area.
+
+Summary: Combines with <details> to create an interactive widget.
+
+Menu: A list inside a <nav> or <div> is commonly used for navigation links.
+
+Tel for Contact Information: Offers a clickable phone number.
+
+Mailto for Contact Information: Offers a clickable email link.
+
+**CSS Features**
+
+Float and Overflow Property: Used to control the layout of elements and manage how content overflows its container, ensuring proper alignment and visibility. 
+
+Column Layout Structure: Utilizes classes such as `.column-layout` and `.column` to create a flexible and organized layout design, making it easier to structure content in columns.
+
+Absolute and Relative Position: Allows for precise positioning of elements on the page. `Relative` positions elements in relation to their normal position, while `Absolute` places them based on the nearest positioned ancestor.
+
+Responsive Design Using Media Queries: Enables the website to adapt to various screen sizes and devices, ensuring an optimal viewing experience across desktop, tablet, and mobile screens.
